@@ -4,3 +4,4 @@ matplotlib
 selenium
 requests
 beautifulsoup4
+wget
